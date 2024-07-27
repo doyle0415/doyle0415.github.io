@@ -1,0 +1,29 @@
+.getuppng {
+    width: 400px; 
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.head1 {
+    font-size: 16px; 
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.box {
+    width: fit-content;
+    height: fit-content;
+    background-color: aquamarine;
+    padding: 40px;
+    border: 4px solid black;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    line-height: 5px;
+    box-shadow: 5px 5px;
+}
